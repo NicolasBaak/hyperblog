@@ -1,3 +1,6 @@
-Mi nombre es Nicolas, tengo 20 años y quiero dominar git al cien porciento
+Mi nombre es Nicolas, soy un lcc que quiere dominar git al cien porciento
 
-Estoy revisando los comandos basicos de git.
+apenas estoy empezando y se los comandos basicos pero aun no tengo mucha 
+confianza en mis habilidades con git.
+
+Me encanta git porque se aplica un poco de logica de viajes en el tiempo y universos paralelos
