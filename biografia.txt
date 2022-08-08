@@ -3,3 +3,5 @@ Mi nombre es Nicolas, tengo 20 años y quiero dominar git al cien porciento
 Estoy revisando los comandos basicos de git.
 
 Mañana sera un dia mejor
+
+Estos cambios se van a borrar pero los cambios de blogpost.html no deseo que se borren
