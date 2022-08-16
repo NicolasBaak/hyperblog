@@ -11,5 +11,6 @@ Un blog increíble para curso de Git y GitHub de Platzi
 * Trucos 
 * Creado por el increible Platzi Team
 * Incluye ejemplos en window, linux y Mac
+* Disponible para todas las edades
 
 Ve al curso de Platzi: [Dando click aquí](https://platzi.com/cursos/git-github/)
