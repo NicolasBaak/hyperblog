@@ -9,5 +9,6 @@ Un blog increíble para curso de Git y GitHub de Platzi
 * El flujo de trabajo de GitHub
 * El verdadero amor por las buenas practicas
 * Trucos 
+* Creado por el increible Platzi Team
 
 Ve al curso de Platzi: [Dando click aquí](https://platzi.com/cursos/git-github/)
