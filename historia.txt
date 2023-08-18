@@ -2,4 +2,6 @@ Hola
 
 Estoy repasando Git
 
+Se me olvido el git config --global user.name "nombre" cambia nombre
+y git config --global user.email "mi correo" coloca el email
 jeje
