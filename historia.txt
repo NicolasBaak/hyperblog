@@ -3,3 +3,5 @@ Hola mi nombre es Nicolas
 Soy desarrollador estudiando git
 
 Estudie licenciatura en ciencias de la computación
+
+Mañana hablaremos de su futuro
